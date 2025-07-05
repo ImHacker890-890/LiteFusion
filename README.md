@@ -34,3 +34,6 @@ python generator.py
 **Coco trainer** - model trained on cool dataset.
 ## Model
 The model can run not only on powerful hardware with a GPU, since it is not large in size.
+>**Note:**
+>This model is not designed for very elaborate and powerful generation.
+>For working with complex prompts, it is recommended to use more complex models such as Deep Floyd IF.

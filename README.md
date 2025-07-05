@@ -24,7 +24,7 @@ python train.py
 ```
 2. Launch generator:
 ```bash
-python generator.py
+python generation.py
 ```
 ## Features
 **Ease of use** - easy usage and installation.
